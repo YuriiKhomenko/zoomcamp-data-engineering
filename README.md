@@ -1,2 +1,2 @@
 # zoomcamp
-Repository for ZoomCamp 2025
+Repository for Data Engineering ZoomCamp 2025
